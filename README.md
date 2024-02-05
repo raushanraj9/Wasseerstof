@@ -13,13 +13,13 @@
 
 ### 4. Approaching task
 
-  - Firstly I Understood the layout of the project task UI
-  - Set up your development environment
-  - Break down project UI into smaller, reusable components.
-  - Identify the components that will have state and which ones will be stateless.
-  - Write code for each component, using JSX syntax to describe how they should look and behave.
-  - Once my application is ready, deploy it to a hosting platform "Netlify".
-  - Finished.
+1. First, I familiarized myself with the layout of the project's UI task.
+2. I set up my development environment to start working on the project.
+3. Breaking down the project UI into smaller, reusable components helped organize the code efficiently.
+4. I identified which components would require state management and which ones would remain stateless to ensure a clear separation of concerns.
+5. Writing code for each component involved using JSX syntax to define their appearance and behavior, ensuring they functioned as intended.
+6. After completing the application development, I deployed it to a hosting platform, such as Netlify, to make it accessible online.
+7. With the deployment done, the project task was successfully finished.
   
 ## Video link (5-10 min) explaining demo of the project :- 
 # 5. Steps to run/build the project -
