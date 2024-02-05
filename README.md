@@ -21,7 +21,7 @@
 6. After completing the application development, I deployed it to a hosting platform, such as Netlify, to make it accessible online.
 7. With the deployment done, the project task was successfully finished.
   
-## Video link (5-10 min) explaining demo of the project :- 
+## Video link (5-10 min) explaining demo of the project :- https://drive.google.com/file/d/1WFPq-FHvBObRH0ps9SbII3q4cZeuadWK/view?usp=sharing
 # 5. Steps to run/build the project -
 
 ## Getting Started with Create React App
